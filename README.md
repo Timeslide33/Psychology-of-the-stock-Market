@@ -1,0 +1,3 @@
+# Psychology-of-the-stock-Market
+by G.C Selden
+Copy from Google Books
