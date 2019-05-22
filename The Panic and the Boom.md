@@ -1,4 +1,4 @@
-**The Panic and the Boom
+# The Panic and the Boom
 
 Both the panic and the boom are eminently psychological phenomena.This is not saying that fundamental conditions do not at times warrant sharp declines in prices and at other times equally sharp advances. But the panic, properly socalled, represents a decline greater than is warranted by conditions, usually because of an excited state of the public mind, accompanied by exhaustion of resources; while the term "boom" is used to mean an excessive and largely speculative advance.
 
