@@ -20,7 +20,7 @@ It is noticeable in panic times that a period arrives when nearly every one thin
 
 This is due to the fact mentioned above, that final low prices are the result of necessities, not of opinions. In 1907, for example, every one of good sense knew perfectly well that stocks were selling below their value--the trouble was that investors could not get hold of the money with which to buy.
 
-The moral is that low prices, after a prolong ed bear period, are not in themselves a sufficient reason for buying stocks. The key to the situation lies in the *accumulation of liquid capital*,which is most quickly evidenced by a rapid recovery of the excess of deposits over loans in the New York clearing house banks(excluding the trust companies, in which loans are more varied). This subject, however, takes us outside our present field.
+The moral is that low prices, after a prolonged bear period, are not in themselves a sufficient reason for buying stocks. The key to the situation lies in the *accumulation of liquid capital*,which is most quickly evidenced by a rapid recovery of the excess of deposits over loans in the New York clearing house banks(excluding the trust companies, in which loans are more varied). This subject, however, takes us outside our present field.
 
 It is to a great extent because the last part of the decline in a panic has been caused not by public opinion, or even by public fear, but by necessity, arising from absolute exhaustion of available funds, that the first part of the ensuing recovery takes place without andy apparent reason.
 
