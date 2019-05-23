@@ -4,7 +4,7 @@ Both the panic and the boom are eminently psychological phenomena.This is not sa
 
 There are some special features connected with the panic and the boom which are worthy of separate consideration.
 
-Tis is really astionishing what a holdthe fear of a possible panic has upon the minds of many investors. The menmory of the events of 1907 has undoubtedly operated greatly to lessen the volume of speculative trade from that time to the present (April, 1912).Panics of equal severity have occurred only a few times in the entire history of the country, and the possiblility of such anoutbreak in any one month is smaller than the chance of loss on the average investment through the failure of the company. Yet the specter of such a panic rises in the minds of the inexperienced whenever they think of buying stocks.
+This is really astionishing what a hold the fear of a possible panic has upon the minds of many investors. The menmory of the events of 1907 has undoubtedly operated greatly to lessen the volume of speculative trade from that time to the present (April, 1912).Panics of equal severity have occurred only a few times in the entire history of the country, and the possiblility of such anoutbreak in any one month is smaller than the chance of loss on the average investment through the failure of the company. Yet the specter of such a panic rises in the minds of the inexperienced whenever they think of buying stocks.
 
 "Yes,"the investor may say,"Reading seems to be in a very strong position, but look where it sold in 1907--at $70 a share!"
 
@@ -31,3 +31,21 @@ Perhaps the word "fear" has been overworked in the discussion of stock market ps
 The effect of this fear or caution in a panic is not limited to the selling of stocks, but is even more important in preventing purchases. It takes far less uneasiness to cause the intending investor to delay purchases than to precipitate actual sales by holders. For this reason, a small quantiy of stock pressed for sale in a panicky market may cause a decline out of all proportion to its importance. The offerings may be small,bu nobody wants them.
 
 It is this factor which accounts for the rapid recoveries which frequently follow panics. Waiting investors are afraid to steip in front of a demoralized market, byt once the turn appears, they fall over each other to buy.
+
+The boom is in may ways the reverse of the panic. Just as fear keeps growing and spreading until the final crash, so confidence and enthusiasm keep reproducing each other on a wider and scale until the result is a sort of hilarity on the part of thousands of men, many of them comparatively young and inexperienced, who have "made big money" during the long advance in prices.
+
+These imaginary millionaires appear in a small swarm during every prolonged bull market, only to fall with their wings singed as sonn as prices decline. Such speculators are, to all practical intents and purposes, irresponsible. It is their very irresponsiblity which has enabled them to make money so rapidly on advancing prices. The prudent man gets only moderate profits in a bull market--it is the man who trades on "shoe-string margins" who gets the biggest benefit out of the rise.
+
+When such mushroom fortunes have accumulated, the market may fall temporarily intohands of these daredevil spirits, so that almost any recklessness is possible for the time. It is this kind of buying which causes prices to go highter after they are already high enough--just as they go lower in a panic after they are plainly seen to be low enough.
+
+When prices get above the natural lewvel, a well-judeged short interest begins to appear. These shorts are right, but right too soon. In a genuine bull market they are nearly always driven to cover by a further rise, whis is, from any common sense standpoint, unreasonable. Ariot of pyraminded margins drives the sane and calculating short seller temporarily to shelter.
+
+A psychological influence of a much wider scope also operates to help a bull market along to unreasonable heights. Such a market is usually accompanied by rising prices in all lines of business and these rising prices always create, in the minds of business men, the impression that their various enterprises are more profitable than is really the case.
+
+One reason for this false imression is found in stocks of goods on hand.Take the wholesale grocer, for example, carrying a stock of goods which inventories $10,000 in January, 1909. On that date Bradstreet's indesx of commodity prices stood at 8.26. In January, 1910, Bradstreet's index was 9.23. If the prices of the various articles included in this stock of groceries increased in the same ratio as Bradstreet's list, and if the grocer had on hand exactly the same things, he would inventory them at about $11,168 in January, 1910.
+
+He make an additional profit of $1,168 during the year without any effort, and probably without any calculation, on his part. But this profit was only apparent, not real; for he could not buy any more with the $11,168 in January, 1910, than he could have bought with the $10,000 in January,1909. He is deceived into supposing himself richer than he really is, and this false idea leads to a gradual growth of extravagance and speculation in every line of bussiness and every walk of life.
+
+The secondary results of this delusion of increased wealth because of rising prices, are even more important than the primary results. Our grocer, for example, decides to spend this $1,168 for an automobile. This helps the automobile business. Hundreds of similar orders induce the automobile company to enlarge its plant. This means extensive purchases of material and employment of labor. The increased demand resulting from a similar condition of things in all departments of industry prodeuce, if other conditions are favorable, a still further rise in prices; hence at the end of another year the grocer perhaps has another imaginary profit, which he spends in enlarging his residence or buying new furniture, etc. 
+
+
